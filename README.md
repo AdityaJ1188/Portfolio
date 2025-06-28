@@ -13,21 +13,24 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - **Hosting:** Netlify
 
 ## 📂 Project Structure
+
+```text
 portfolio/
 ├── css/
-│ ├── styles.css
-│ ├── vendor.css    
-├── download
-│ ├── resume.pdf
-├── images
-│ ├── images
-├── js
-│ ├── main.js
-│ ├── plugins.js
+│   ├── styles.css
+│   └── vendor.css
+├── download/
+│   └── resume.pdf
+├── images/
+│   └── [image files]
+├── js/
+│   ├── main.js
+│   └── plugins.js
 ├── about.html
 ├── contact.html
-└── index.html
+├── index.html
 └── services.html
+```
 
 ## ✨ Features
 
