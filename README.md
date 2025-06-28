@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 🚀 Live Demo
 
-[Visit Portfolio](https://your-portfolio-url.com)
+[Visit Portfolio](https://aaditya-javanjal-portfolio.netlify.app/)
 
 ## 🛠️ Tech Stack
 
