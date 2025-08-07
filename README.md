@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website 
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, resume, and background as a developer. Built to reflect my style and professionalism, this portfolio helps visitors and recruiters know more about me and the work I've done.
 
